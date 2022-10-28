@@ -1,16 +1,1 @@
-In today’s world, accessing news through social media is like a double-edged sword. On
-one side, it is cost-effective, easily accessible, and quick broadcasting of the information
-drives people to access news online. But on another side, it facilitates the spreading of
-fake news i.e., false information that can cause adverse effects on an individual or society
-The expansive stretch of fake news has the possibility for causing excessively damaging
-consequences on people and the community. Therefore, detecting fake news and the fake
-social media accounts spreading these fake news has becomes very important and has
-newly evolved as a arising research that is drawing massive consideration. This problem
-statement struck my mind, and the plan was to develop an integrated web application that could forecast
-the legitimacy of online news articles and social media profiles. This method would allow netizens to
-ferret fake articles and profiles in less time. Some web applications are able to predict fake news.
-However, they do not function for real-time news or profiles, and thus I decided to solve this issue
-through the Machine Learning approach. I designed numerous models, tried every possible solution, and
-finally employed a novel ML model based on the Passive-Aggressive algorithm, an online learning
-algorithm capable of predicting the veracity of real-time news. 
-So, to ferret such bogus articles and handels on internet fast and efficiently , I built a web application using a flask framework. 
+In today’s world, accessing news through social media is like a double-edged sword. On one side, it is cost-effective, easily accessible, and quick broadcasting of the information drives people to access news online. But on another side, it facilitates the spreading of fake news i.e., false information that can cause adverse effects on an individual or society. The expansive stretch of fake news has the possibility for causing excessively damaging consequences on people and the community. Therefore, detecting fake news and the fake social media accounts spreading these fake news has becomes very important and has newly evolved as a arising research that is drawing massive consideration. This problem statement struck my mind, and the plan was to develop an integrated web application that could forecast the legitimacy of online news articles and social media profiles. This method would allow netizens to ferret fake articles and profiles in less time. Some web applications are able to predict fake news. However, they do not function for real-time news or profiles, and thus I decided to solve this issue through the Machine Learning approach. I designed numerous models, tried every possible solution, and finally employed a novel ML model based on the Passive-Aggressive algorithm, an online learning algorithm capable of predicting the veracity of real-time news. So, to ferret such bogus articles and handels on internet fast and efficiently , I built a web application using a flask framework. 
