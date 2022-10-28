@@ -1,1 +1,3 @@
 As a Computer Engineer, I was fiercely pushed to discover new ideas and comprehend key principles so that I could apply them in the actual world. I always used to wonder what are the real-life use cases of what I am learning in my classes. To explore the power of programming languages and theoretical concepts known in class, I started applying them to create some awesome tech stuff in my leisure. While working on different IoT projects, I felt creating bespoke drones was a real thrill, and I started modeling and 3D printing them. I used such 3D-printed racing drones in National level competitions as well, which helped me learn the programming languages effectively.
+
+Instagram page of VPKBIET Tech Lab Managed by me- https://www.instagram.com/vpkbiet_tech_lab/?hl=en
